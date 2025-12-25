@@ -2,6 +2,8 @@
 
 An intelligent AI-powered automation system built with **n8n + LangChain + OpenRouter**, capable of understanding natural language requests and performing real-world actions like **sending emails**, **retrieving contacts**, and **creating calendar events** — all with built-in safety and confirmation.
 
+![ai-agentic-workflows--1-](https://github.com/user-attachments/assets/bdfb7598-9093-4c86-9d33-410960ea1115)
+
 ---
 
 ## 📌 Project Overview
